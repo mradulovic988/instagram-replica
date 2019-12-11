@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="489127a0-0db2-4f7e-bfa5-1d4c39e59bba" name="Default Changelist" comment="" />
+    <list default="true" id="489127a0-0db2-4f7e-bfa5-1d4c39e59bba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Policies/ProfilePolicy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Profile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/profiles/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/profiles/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +21,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -104,13 +116,18 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1UnOXVDwTx1vjy6uG0ACqSmx0jK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -157,30 +174,40 @@
       <workItem from="1575988944154" duration="17700000" />
       <workItem from="1576021445787" duration="4585000" />
       <workItem from="1576062416828" duration="2420000" />
+      <workItem from="1576100045882" duration="3345000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="687" y="333" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575991199357">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="687" y="333" key="#com.intellij.fileTypes.FileTypeChooser/-1366.123.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1575991199357" />
-    <state x="-1500" y="118" key="NewPhpFileDialog" timestamp="1576025561771">
-      <screen x="-2560" y="-325" width="2560" height="1050" />
+    <state x="-1500" y="-305" key="NewPhpFileDialog" timestamp="1576101169776">
+      <screen x="-2560" y="-748" width="2560" height="1050" />
     </state>
     <state x="795" y="443" key="NewPhpFileDialog/-1366.123.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1576009463000" />
     <state x="-1500" y="118" key="NewPhpFileDialog/0.0.1366.738/-2560.-325.2560.1050@-2560.-325.2560.1050" timestamp="1576025561771" />
+    <state x="-1500" y="-305" key="NewPhpFileDialog/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1576101169776" />
     <state x="461" y="166" key="SettingsEditor" timestamp="1576008601620">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="166" key="SettingsEditor/-1366.123.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1576008601620" />
-    <state x="-1729" y="-98" width="896" height="678" key="search.everywhere.popup" timestamp="1576025489301">
-      <screen x="-2560" y="-325" width="2560" height="1050" />
+    <state x="-1807" y="-126" width="672" height="677" key="run.anything.popup" timestamp="1576101872663">
+      <screen x="-2560" y="-748" width="2560" height="1050" />
+    </state>
+    <state x="-1807" y="-126" width="672" height="677" key="run.anything.popup/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1576101872663" />
+    <state x="-1729" y="-521" width="896" height="678" key="search.everywhere.popup" timestamp="1576103336092">
+      <screen x="-2560" y="-748" width="2560" height="1050" />
     </state>
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/-1366.123.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1576011032963" />
     <state x="-1729" y="-98" width="896" height="678" key="search.everywhere.popup/0.0.1366.738/-2560.-325.2560.1050@-2560.-325.2560.1050" timestamp="1576025489301" />
+    <state x="-1729" y="-521" width="896" height="678" key="search.everywhere.popup/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1576103336092" />
   </component>
 </project>
