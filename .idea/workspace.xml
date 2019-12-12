@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="489127a0-0db2-4f7e-bfa5-1d4c39e59bba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Policies/ProfilePolicy.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Profile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_12_10_191624_create_profiles_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_12_10_191624_create_profiles_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/posts/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/posts/show.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/profiles/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/profiles/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +173,8 @@
       <workItem from="1575988944154" duration="17700000" />
       <workItem from="1576021445787" duration="4585000" />
       <workItem from="1576062416828" duration="2420000" />
-      <workItem from="1576100045882" duration="3345000" />
+      <workItem from="1576100045882" duration="3712000" />
+      <workItem from="1576106580991" duration="4178000" />
     </task>
     <servers />
   </component>
@@ -189,6 +189,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="687" y="333" key="#com.intellij.fileTypes.FileTypeChooser/-1366.123.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1575991199357" />
+    <state x="-1544" y="-448" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1576107980065">
+      <screen x="-2560" y="-748" width="2560" height="1050" />
+    </state>
+    <state x="-1544" y="-448" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1576107980065" />
     <state x="-1500" y="-305" key="NewPhpFileDialog" timestamp="1576101169776">
       <screen x="-2560" y="-748" width="2560" height="1050" />
     </state>
@@ -203,11 +207,11 @@
       <screen x="-2560" y="-748" width="2560" height="1050" />
     </state>
     <state x="-1807" y="-126" width="672" height="677" key="run.anything.popup/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1576101872663" />
-    <state x="-1729" y="-521" width="896" height="678" key="search.everywhere.popup" timestamp="1576103336092">
+    <state x="-1729" y="-521" width="896" height="678" key="search.everywhere.popup" timestamp="1576110159128">
       <screen x="-2560" y="-748" width="2560" height="1050" />
     </state>
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/-1366.123.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1576011032963" />
     <state x="-1729" y="-98" width="896" height="678" key="search.everywhere.popup/0.0.1366.738/-2560.-325.2560.1050@-2560.-325.2560.1050" timestamp="1576025489301" />
-    <state x="-1729" y="-521" width="896" height="678" key="search.everywhere.popup/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1576103336092" />
+    <state x="-1729" y="-521" width="896" height="678" key="search.everywhere.popup/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1576110159128" />
   </component>
 </project>
