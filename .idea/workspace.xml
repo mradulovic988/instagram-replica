@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="489127a0-0db2-4f7e-bfa5-1d4c39e59bba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/FollowsController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2019_12_14_100731_creates_profile_user_pivot_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/FollowsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/FollowsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Profile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/components/FollowButton.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/FollowButton.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/profiles/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/profiles/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +180,7 @@
       <workItem from="1576153526409" duration="3121000" />
       <workItem from="1576248392616" duration="660000" />
       <workItem from="1576271892368" duration="3542000" />
-      <workItem from="1576316272663" duration="1918000" />
+      <workItem from="1576316272663" duration="4132000" />
     </task>
     <servers />
   </component>
@@ -209,15 +210,15 @@
     </state>
     <state x="461" y="166" key="SettingsEditor/-1366.123.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1576008601620" />
     <state x="-1945" y="-582" key="SettingsEditor/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1576275421992" />
-    <state x="-1807" y="-126" width="672" height="677" key="run.anything.popup" timestamp="1576101872663">
+    <state x="-1807" y="-126" width="672" height="677" key="run.anything.popup" timestamp="1576319331725">
       <screen x="-2560" y="-748" width="2560" height="1050" />
     </state>
-    <state x="-1807" y="-126" width="672" height="677" key="run.anything.popup/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1576101872663" />
-    <state x="-1729" y="-521" width="896" height="678" key="search.everywhere.popup" timestamp="1576318063004">
+    <state x="-1807" y="-126" width="672" height="677" key="run.anything.popup/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1576319331725" />
+    <state x="-1729" y="-521" width="896" height="678" key="search.everywhere.popup" timestamp="1576319335399">
       <screen x="-2560" y="-748" width="2560" height="1050" />
     </state>
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/-1366.123.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1576011032963" />
     <state x="-1729" y="-98" width="896" height="678" key="search.everywhere.popup/0.0.1366.738/-2560.-325.2560.1050@-2560.-325.2560.1050" timestamp="1576025489301" />
-    <state x="-1729" y="-521" width="896" height="678" key="search.everywhere.popup/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1576318063004" />
+    <state x="-1729" y="-521" width="896" height="678" key="search.everywhere.popup/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1576319335399" />
   </component>
 </project>
