@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="489127a0-0db2-4f7e-bfa5-1d4c39e59bba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Providers/TelescopeServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/telescope.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/telescope/app-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/telescope/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/telescope/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/telescope/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/telescope/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/freeCodeGram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/freeCodeGram.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/FollowsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/FollowsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Profile.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/components/FollowButton.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/FollowButton.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/profiles/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/profiles/index.blade.php" afterDir="false" />
@@ -113,6 +123,8 @@
       <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
       <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/laravel/telescope" />
+      <path value="$PROJECT_DIR$/vendor/moontoast/math" />
     </include_path>
   </component>
   <component name="ProjectId" id="1UnOXVDwTx1vjy6uG0ACqSmx0jK" />
@@ -180,7 +192,8 @@
       <workItem from="1576153526409" duration="3121000" />
       <workItem from="1576248392616" duration="660000" />
       <workItem from="1576271892368" duration="3542000" />
-      <workItem from="1576316272663" duration="4132000" />
+      <workItem from="1576316272663" duration="4366000" />
+      <workItem from="1576321346528" duration="1432000" />
     </task>
     <servers />
   </component>
@@ -214,11 +227,11 @@
       <screen x="-2560" y="-748" width="2560" height="1050" />
     </state>
     <state x="-1807" y="-126" width="672" height="677" key="run.anything.popup/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1576319331725" />
-    <state x="-1729" y="-521" width="896" height="678" key="search.everywhere.popup" timestamp="1576319335399">
+    <state x="-1729" y="-521" width="896" height="678" key="search.everywhere.popup" timestamp="1576322050853">
       <screen x="-2560" y="-748" width="2560" height="1050" />
     </state>
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/-1366.123.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1576011032963" />
     <state x="-1729" y="-98" width="896" height="678" key="search.everywhere.popup/0.0.1366.738/-2560.-325.2560.1050@-2560.-325.2560.1050" timestamp="1576025489301" />
-    <state x="-1729" y="-521" width="896" height="678" key="search.everywhere.popup/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1576319335399" />
+    <state x="-1729" y="-521" width="896" height="678" key="search.everywhere.popup/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1576322050853" />
   </component>
 </project>
